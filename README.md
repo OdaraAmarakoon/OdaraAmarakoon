@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lushani Odara Amarakoon</h1>
+
 <h3 align="center">A passionate Mobile Application developer from Sri Lanka</h3>
-<p align="left"> <img align="left" alt="Coding" width="200" height="100" src="https://i.gifer.com/4cDI.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odaraamarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="odaraamarakoon" /> </p>
 
