@@ -1,4 +1,4 @@
-![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Lushani Odara Amarakoon</h1>
 <h3 align="center">A passionate Mobile Application developer from Sri Lanka</h3>
 <img align="right alt="Coding" src="https://i.gifer.com/4cDI.gif">
