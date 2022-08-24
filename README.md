@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'Lushani Odara Amarakoon</h1>
+<h1 align="center">Hi 👋, I'm Odara Amarakoon</h1>
 
 <h3 align="center">A passionate Mobile Application developer from Sri Lanka</h3>
 
