@@ -7,8 +7,6 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java, Android**
-
 - 📫 How to reach me **lushanioamarakoon@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
