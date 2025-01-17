@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Odara Amarakoon</h1>
+<h1 align="center">Hello 👋, I'm Odara Amarakoon a Fresh Software Engineering Graduate</h1>
 
 <h3 align="center">A passionate Mobile Application, Web Developer & Quality Assurance Automation Engineer from Sri Lanka</h3>
 
